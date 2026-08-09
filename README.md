@@ -1,5 +1,7 @@
 # Use Case: Personalized Consumer Memory
 
+**YouTube walkthrough:** [Personalized Consumer Memory — System Design #Shorts](https://youtu.be/A7SJFImj4JM)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse versioned chunks from **04**; **never** share ANN postings across users.
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Personalized Consumer Memory — System Design #Shorts](https://youtu.be/A7SJFImj4JM)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
