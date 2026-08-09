@@ -1,7 +1,7 @@
 # Design: Personalized Consumer Memory
 
 **Project:** `personalized-consumer-memory`  
-**Parent system design:** [04 — RAG / Document Retrieval](../04-rag-embedding-pipeline.md)
+**Parent system design:** [04 — RAG / Document Retrieval](https://github.com/Debashis2007/personalized-consumer-memory/blob/main/04-rag-embedding-pipeline.md)
 
 ## 1. What this POC demonstrates
 

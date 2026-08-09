@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [04 — RAG / Document Retrieval](./04-rag-embedding-pipeline.md)
+**Parent system design:** [04 — RAG / Document Retrieval](https://github.com/Debashis2007/personalized-consumer-memory/blob/main/04-rag-embedding-pipeline.md)
 
 ## Users & problem
 
@@ -39,7 +39,7 @@ Reuse versioned chunks from **04**; **never** share ANN postings across users.
 |---------|------------------------|
 | Scale | Millions of tiny indexes → pack users in shards with hard filters |
 | UX | Memory inspector UI; per-item delete |
-| Safety | Memory content untrusted for tool privilege ([07](./07-agent-runtime-containment.md)) |
+| Safety | Memory content untrusted for tool privilege ([07](https://github.com/Debashis2007/personalized-consumer-memory/blob/main/07-agent-runtime-containment.md)) |
 | Retention | TTL tiers; export/download |
 
 ## Failure modes
