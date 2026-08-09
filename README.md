@@ -1,5 +1,7 @@
 # Use Case: Personalized Consumer Memory
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Personalized Consumer Memory — System Design #Shorts](https://youtu.be/A7SJFImj4JM)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
